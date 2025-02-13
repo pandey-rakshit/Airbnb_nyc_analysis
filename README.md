@@ -1,6 +1,6 @@
 # Airbnb_nyc_analysis
 
-[![Tableau Dashboard](./docs/Dashboard.png)](https://public.tableau.com/app/profile/rakshit.pandey3505/viz/AirbnbListingAnalysis_17386113937310/Dashboard1)
+[![Tableau Dashboard](./docs/Dashboard.png)](./Data%20Visualization%20Docs.md)
 
 **Project Summary: Analyzing Airbnb Listings in New York City**
 
