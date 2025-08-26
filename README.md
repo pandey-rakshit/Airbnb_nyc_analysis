@@ -1,6 +1,6 @@
 # Airbnb_nyc_analysis
 
-[![Tableau Dashboard](./docs/imgs/Latest.png)](./Data%20Visualization%20Docs.md)
+[![PowerBI Dashboard](./docs/imgs/Airbnb_NYC_listing_dashboard.png)](./Data%20Visualization%20Docs.md)
 
 **Project Summary: Analyzing Airbnb Listings in New York City**
 
